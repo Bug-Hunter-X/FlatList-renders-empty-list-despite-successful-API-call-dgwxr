@@ -1,0 +1,3 @@
+# React Native FlatList Empty List Bug
+
+This repository demonstrates a common bug in React Native where a FlatList component renders an empty list even after successfully fetching data from an API.  The issue is likely related to how the state is updated and handled within the component's lifecycle. The solution showcases a proper approach to dealing with asynchronous data fetching and updating the FlatList.
